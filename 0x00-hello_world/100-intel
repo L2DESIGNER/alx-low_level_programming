@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 gcc -S -masm=intel $CFILE
-=======
-#!/bin/bash
-gcc -S -masm=intel $CFILE
->>>>>>> 7306ba5a1b40bfc2eede5f57aab56507793845ca
